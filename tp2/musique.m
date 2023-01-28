@@ -1,7 +1,6 @@
 clear all 
 close all
 clc
-%realiser par : Nilam
 
 fe = 8192;
 te = 1/fe;
